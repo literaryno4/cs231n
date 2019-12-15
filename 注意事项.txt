@@ -1,0 +1,10 @@
+解绑信用卡
+释放静态IP地址
+
+
+
+cs231n-ip: 35.236.169.197
+
+SSH into cs231n-vm 命令：
+
+gcloud beta compute --project "coastal-glass-259608" ssh --zone "asia-east1-a" "cs231n-vm"
