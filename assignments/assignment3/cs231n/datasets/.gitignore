@@ -1,5 +1,2 @@
 *
-!get_assignment3_data.sh
-!get_coco_captioning.sh
-!get_imagenet_val.sh
-!get_squeezenet_tf.sh
+!*.sh
